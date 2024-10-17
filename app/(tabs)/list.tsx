@@ -13,7 +13,12 @@ export default function List() {
           style={styles.back}
           data={data}
           renderItem={({ item }) => (
-            <Item name={item.nome} age={item.idade} date={item.data} />
+            <Item
+              name={item.nome}
+              age={item.idade}
+              date={item.data}
+              image={item.imagem}
+            />
           )}
           keyExtractor={(item) => item.id}
         />
@@ -33,10 +38,15 @@ const styles = StyleSheet.create({
     display: "flex",
     alignItems: "center",
     justifyContent: "center",
-    shadowColor: 'black',
-    shadowOpacity: 0.26,
-    shadowOffset: { width: 0, height: 2},
-    shadowRadius: 10,
+    shadowColor: "#000",
+    shadowOffset: {
+      width: 0,
+      height: 12,
+    },
+    shadowOpacity: 0.58,
+    shadowRadius: 16.0,
+
+    elevation: 24,
     paddingVertical: 20,
   },
 });

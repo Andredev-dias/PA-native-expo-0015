@@ -1,92 +1,107 @@
 [
-    {
-        "id": "1",
-        "nome": "andre",
-        "idade": "15",
-        "data": "10/10/25"
-    },
-    {
-        "id": "2",
-        "nome": "batata",
-        "idade": "15",
-        "data": "10/10/25"
-    },
-    {
-        "id": "3",
-        "nome": "lasanha",
-        "idade": "15",
-        "data": "10/10/25"
-    },
-    {
-        "id": "4",
-        "nome": "pre-treino",
-        "idade": "15",
-        "data": "10/10/25"
-    },
-    {
-        "id": "5",
-        "nome": "olivas",
-        "idade": "15",
-        "data": "10/10/25"
-    },
-    {
-        "id": "6",
-        "nome": "andre",
-        "idade": "15",
-        "data": "10/10/25"
-    },
-    {
-        "id": "7",
-        "nome": "andre",
-        "idade": "15",
-        "data": "10/10/25"
-    },
-    {
-        "id": "8",
-        "nome": "andre",
-        "idade": "15",
-        "data": "10/10/25"
-    },
-    {
-        "id": "9",
-        "nome": "andre",
-        "idade": "15",
-        "data": "10/10/25"
-    },
-    {
-        "id": "10",
-        "nome": "andre",
-        "idade": "15",
-        "data": "10/10/25"
-    },
-    {
-        "id": "11",
-        "nome": "andre",
-        "idade": "15",
-        "data": "10/10/25"
-    },
-    {
-        "id": "12",
-        "nome": "andre",
-        "idade": "15",
-        "data": "10/10/25"
-    },
-    {
-        "id": "13",
-        "nome": "andre",
-        "idade": "15",
-        "data": "10/10/25"
-    },
-    {
-        "id": "14",
-        "nome": "andre",
-        "idade": "15",
-        "data": "10/10/25"
-    },
-    {
-        "id": "15",
-        "nome": "andre",
-        "idade": "15",
-        "data": "10/10/25"
-    }
+  {
+    "id": "1",
+    "nome": "andre",
+    "idade": "15",
+    "data": "10/10/25",
+    "imagem": "../assets/images/react-logo.png"
+  },
+  {
+    "id": "2",
+    "nome": "batata",
+    "idade": "15",
+    "data": "10/10/25",
+    "imagem": "../assets/images/react-logo.png"
+  },
+  {
+    "id": "3",
+    "nome": "lasanha",
+    "idade": "15",
+    "data": "10/10/25",
+    "imagem": "../assets/images/react-logo.png"
+  },
+  {
+    "id": "4",
+    "nome": "pre-treino",
+    "idade": "15",
+    "data": "10/10/25",
+    "imagem": "../assets/images/react-logo.png"
+  },
+  {
+    "id": "5",
+    "nome": "olivas",
+    "idade": "15",
+    "data": "10/10/25",
+    "imagem": "../assets/images/react-logo.png"
+  },
+  {
+    "id": "6",
+    "nome": "andre",
+    "idade": "15",
+    "data": "10/10/25",
+    "imagem": "../assets/images/react-logo.png"
+  },
+  {
+    "id": "7",
+    "nome": "andre",
+    "idade": "15",
+    "data": "10/10/25",
+    "imagem": "../assets/images/react-logo.png"
+  },
+  {
+    "id": "8",
+    "nome": "andre",
+    "idade": "15",
+    "data": "10/10/25",
+    "imagem": "../assets/images/react-logo.png"
+  },
+  {
+    "id": "9",
+    "nome": "andre",
+    "idade": "15",
+    "data": "10/10/25",
+    "imagem": "../assets/images/react-logo.png"
+  },
+  {
+    "id": "10",
+    "nome": "andre",
+    "idade": "15",
+    "data": "10/10/25",
+    "imagem": "../assets/images/react-logo.png"
+  },
+  {
+    "id": "11",
+    "nome": "andre",
+    "idade": "15",
+    "data": "10/10/25",
+    "imagem": "../assets/images/react-logo.png"
+  },
+  {
+    "id": "12",
+    "nome": "andre",
+    "idade": "15",
+    "data": "10/10/25",
+    "imagem": "../assets/images/react-logo.png"
+  },
+  {
+    "id": "13",
+    "nome": "andre",
+    "idade": "15",
+    "data": "10/10/25",
+    "imagem": "../assets/images/react-logo.png"
+  },
+  {
+    "id": "14",
+    "nome": "andre",
+    "idade": "15",
+    "data": "10/10/25",
+    "imagem": "../assets/images/react-logo.png"
+  },
+  {
+    "id": "15",
+    "nome": "andre",
+    "idade": "15",
+    "data": "10/10/25",
+    "imagem": "../assets/images/react-logo.png"
+  }
 ]
