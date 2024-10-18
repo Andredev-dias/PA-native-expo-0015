@@ -6,6 +6,7 @@ export const Header = ({image} : {image: ImageSourcePropType }) => {
         <>
             <View style={styles.background}>
                 <Text style={styles.temQSerNoText}>Header exemplo</Text>
+                <Text style={styles.fonteDiferente}>Testando fontes diferentes</Text>
                 <Image source={image}/>
             </View>
         </>
@@ -19,11 +20,16 @@ const styles = StyleSheet.create({
         alignItems: "center",
         justifyContent:"center",
         paddingHorizontal: 10,
-        paddingVertical: 30
+        paddingVertical: 30,
         },
     temQSerNoText: {
         color: "#ffffff",
         fontWeight: "bold",
         fontSize: 30,
+        fontFamily: "Inter"
+    },
+    fonteDiferente: {
+        fontFamily: "Anton",
+        color: "#ffffff",
     }
 })

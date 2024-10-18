@@ -3,7 +3,7 @@ import { StyleSheet, Text } from "react-native";
 export default function TabTwoScreen() {
   return (
     <>
-      <Text>Segunda pag</Text>
+      <Text>PAGINA PARA ESTUDO DOS COMPONENTES REACT NATIVE</Text>
     </>
   );
 }

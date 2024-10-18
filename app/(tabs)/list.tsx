@@ -13,7 +13,7 @@ export default function List() {
           style={styles.back}
           data={data}
           renderItem={({ item }) => (
-            <Item name={item.nome} age={item.idade} date={item.data} />
+            <Item name={item.nome} age={item.idade} date={item.data} image={item.imagem} />
           )}
           keyExtractor={(item) => item.id}
         />
