@@ -13,6 +13,7 @@ export const Header = ({ image }: { image: ImageSourcePropType }) => {
         <Text style={styles.temQSerNoText}>Header exemplo</Text>
         <Text style={styles.fontTest}>TESTANDO fontes</Text>
         <Image source={image} />
+    
       </View>
     </>
   );
